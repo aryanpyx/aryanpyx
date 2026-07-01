@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanpyx" alt="aryanpyx" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/aran07722526" target="blank"><img src="https://img.shields.io/twitter/follow/aran07722526?logo=twitter&style=for-the-badge" alt="aran07722526" /></a> </p>
+<p align="left"> <a href="https://twitter.com/aryanpyx" target="blank"><img src="https://img.shields.io/twitter/follow/aryanpyx?logo=twitter&style=for-the-badge" alt="aryanpyx" /></a> </p>
 
 - 📫 How to reach me **aryanpandey52355@gmail.com**
 
