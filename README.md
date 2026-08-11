@@ -462,30 +462,6 @@ Contributed across open-source initiatives, project administration, community op
 
 ---
 
-# Coding Profiles
-
-<div align="center">
-
-<a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-18181B?style=for-the-badge&logo=leetcode&logoColor=A78BFA"/>
-</a>
-
-<a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-18181B?style=for-the-badge&logo=geeksforgeeks&logoColor=7C3AED"/>
-</a>
-
-<a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile-18181B?style=for-the-badge&logo=hackerrank&logoColor=A855F7"/>
-</a>
-
-<a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile-18181B?style=for-the-badge&logo=codechef&logoColor=8B5CF6"/>
-</a>
-
-</div>
-
----
-
 # GitHub Analytics
 
 <div align="center">
