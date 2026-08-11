@@ -50,7 +50,7 @@
 
 I’m **Aryan Pandey**, a Computer Science Engineering student specializing in **Data Science**, a software builder, and the **Founder & CEO of APYX**.
 
-I work at the intersection of **software engineering, AI, full-stack development, product engineering, design, automation, and technology ecosystems**. My focus is on transforming ideas into practical digital products and intelligent systems.
+I work at the intersection of **software engineering, AI, full-stack development, product engineering, design, automation, and technology ecosystems**. I focus on transforming ideas into practical digital products and intelligent systems.
 
 At **APYX**, I’m building an AI-powered ecosystem focused on **automation, productivity, and digital experiences**, with intelligent tools and workflows designed for founders, startups, and creators.
 
@@ -128,13 +128,13 @@ Alongside product building, I contribute to technology communities through progr
 
 <br/>
 
-**APYX** is an AI-powered ecosystem focused on automation, productivity, and digital experiences for founders, startups, and creators.
+APYX is an AI-powered ecosystem focused on **automation, productivity, and digital experiences** for founders, startups, and creators.
 
 | Metric | Details |
 |---|---|
 | **Stack** | AI · Web Technologies · Automation · Product Engineering |
 | **Scale** | Technology ecosystem |
-| **Performance** | Designed around practical, productivity-focused workflows |
+| **Performance** | Productivity-focused digital workflows |
 | **Security** | Application-level security and responsible product architecture |
 | **Impact** | Helping founders, startups, and creators turn ideas into digital products |
 | **Repository** | [GitHub](https://github.com/aryanpyx) · [Portfolio](https://aryan-me.netlify.app) |
@@ -155,15 +155,15 @@ Alongside product building, I contribute to technology communities through progr
 
 <br/>
 
-A multimodal AI system combining **speech and computer vision** to improve accessibility and intelligent human-computer interaction.
+A multimodal AI system integrating **speech and computer vision** to improve accessibility and intelligent human-computer interaction.
 
 | Metric | Details |
 |---|---|
 | **Stack** | Speech AI · Computer Vision · Multimodal AI |
 | **Scale** | Multimodal intelligent interaction system |
-| **Performance** | Designed for real-time human-computer interaction workflows |
+| **Performance** | Designed for intelligent human-computer interaction |
 | **Security** | Input-aware application architecture |
-| **Impact** | Exploring more accessible and intelligent interaction models |
+| **Impact** | Exploring accessible and intelligent interaction models |
 | **Repository** | [GitHub](https://github.com/aryanpyx) |
 
 ### Engineering Focus
@@ -181,14 +181,14 @@ A multimodal AI system combining **speech and computer vision** to improve acces
 
 <br/>
 
-An AI-powered fact-checking platform designed to verify claims, identify potential bias, and process multimodal inputs including **text, files, and voice**.
+An AI-powered fact-checking application designed to **verify claims, detect bias, and process multimodal inputs** including text, files, and voice.
 
 | Metric | Details |
 |---|---|
 | **Stack** | NLP · LLM APIs · Multimodal AI |
 | **Scale** | AI-powered verification platform |
-| **Performance** | Designed for multimodal claim-processing workflows |
-| **Security** | Input validation and controlled processing architecture |
+| **Performance** | Multimodal claim-processing workflows |
+| **Security** | Controlled input and processing architecture |
 | **Impact** | Helps users evaluate claims and identify potential misinformation |
 | **Repository** | [GitHub](https://github.com/aryanpyx) |
 
@@ -207,7 +207,7 @@ An AI-powered fact-checking platform designed to verify claims, identify potenti
 
 <br/>
 
-A virtual AI assistant designed around **voice commands, multilingual interaction, PC control, productivity, and automation**.
+A virtual AI assistant built around **voice commands, multilingual support, PC control, productivity, and automation**.
 
 | Metric | Details |
 |---|---|
@@ -233,13 +233,13 @@ A virtual AI assistant designed around **voice commands, multilingual interactio
 
 <br/>
 
-A climate-tech solution focused on **Monitoring, Reporting, and Verification (MRV)** for transparent environmental data collection and carbon-impact tracking.
+A climate-tech solution for **Monitoring, Reporting, and Verification (MRV)** supporting transparent environmental data collection and carbon-impact tracking.
 
 | Metric | Details |
 |---|---|
 | **Stack** | Climate Tech · Environmental Data · MRV |
 | **Scale** | Environmental monitoring solution |
-| **Performance** | Structured around transparent data collection workflows |
+| **Performance** | Transparent data collection workflows |
 | **Security** | Data integrity and verification considerations |
 | **Impact** | Supports environmental reporting and carbon-impact tracking |
 | **Repository** | [GitHub](https://github.com/aryanpyx) |
@@ -259,13 +259,13 @@ A climate-tech solution focused on **Monitoring, Reporting, and Verification (MR
 
 <br/>
 
-A blockchain-based system for secure evidence storage and verification, focused on **data integrity, transparency, and decentralized trust**.
+A blockchain-based system for **secure evidence storage and verification**, focused on data integrity, transparency, and decentralized trust.
 
 | Metric | Details |
 |---|---|
 | **Stack** | Blockchain · Decentralized Systems |
 | **Scale** | Evidence storage and verification system |
-| **Performance** | Designed around verifiable evidence workflows |
+| **Performance** | Verifiable evidence workflows |
 | **Security** | Blockchain-backed integrity and verification |
 | **Impact** | Improves transparency and trust in digital evidence |
 | **Repository** | [GitHub](https://github.com/aryanpyx) |
@@ -356,7 +356,7 @@ Building strategic partnerships and sponsorship opportunities across the technol
 
 ---
 
-## Session Host & State Lead — Uttar Pradesh — Open Source Connect Global
+## Session Host & State Lead — Uttar Pradesh
 
 **Open Source Connect Global** · `January 2026 – Present`
 
@@ -427,7 +427,7 @@ Supported the planning and execution of one of India's largest technical festiva
 
 ---
 
-## Project Administrator, Core Team Member & Graphic Designer — Open Source Connect India
+## Project Administrator, Core Team Member & Graphic Designer
 
 **Open Source Connect India** · `August 2025 – October 2025`
 
@@ -462,44 +462,24 @@ Contributed across open-source initiatives, project administration, community op
 
 ---
 
-# Certifications
-
-### AWS
-
-<img src="https://img.shields.io/badge/AWS-Certifications%20Not%20Provided-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"/>
-
-### Oracle
-
-<img src="https://img.shields.io/badge/Oracle-Certifications%20Not%20Provided-A855F7?style=for-the-badge&logo=oracle&logoColor=white"/>
-
-### NPTEL
-
-<img src="https://img.shields.io/badge/NPTEL-Certifications%20Not%20Provided-4F46E5?style=for-the-badge&logo=google-scholar&logoColor=white"/>
-
-### Cisco
-
-<img src="https://img.shields.io/badge/Cisco-Certifications%20Not%20Provided-6366F1?style=for-the-badge&logo=cisco&logoColor=white"/>
-
----
-
 # Coding Profiles
 
 <div align="center">
 
 <a href="https://leetcode.com/">
-<img src="https://img.shields.io/badge/LeetCode-Profile%20Not%20Provided-18181B?style=for-the-badge&logo=leetcode&logoColor=A78BFA"/>
+<img src="https://img.shields.io/badge/LeetCode-Profile-18181B?style=for-the-badge&logo=leetcode&logoColor=A78BFA"/>
 </a>
 
 <a href="https://www.geeksforgeeks.org/">
-<img src="https://img.shields.io/badge/GeeksforGeeks-Profile%20Not%20Provided-18181B?style=for-the-badge&logo=geeksforgeeks&logoColor=7C3AED"/>
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile-18181B?style=for-the-badge&logo=geeksforgeeks&logoColor=7C3AED"/>
 </a>
 
 <a href="https://www.hackerrank.com/">
-<img src="https://img.shields.io/badge/HackerRank-Profile%20Not%20Provided-18181B?style=for-the-badge&logo=hackerrank&logoColor=A855F7"/>
+<img src="https://img.shields.io/badge/HackerRank-Profile-18181B?style=for-the-badge&logo=hackerrank&logoColor=A855F7"/>
 </a>
 
 <a href="https://www.codechef.com/">
-<img src="https://img.shields.io/badge/CodeChef-Profile%20Not%20Provided-18181B?style=for-the-badge&logo=codechef&logoColor=8B5CF6"/>
+<img src="https://img.shields.io/badge/CodeChef-Profile-18181B?style=for-the-badge&logo=codechef&logoColor=8B5CF6"/>
 </a>
 
 </div>
@@ -510,13 +490,19 @@ Contributed across open-source initiatives, project administration, community op
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=aryanpyx&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180"/>
+<a href="https://github.com/aryanpyx">
+<img src="https://github-readme-stats.vercel.app/api?username=aryanpyx&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180" alt="GitHub Statistics"/>
+</a>
 
-<img src="https://streak-stats.demolab.com?user=aryanpyx&theme=transparent&hide_border=true&background=0D0B14&ring=7C3AED&fire=A855F7&currStreakLabel=A78BFA&sideLabels=8B5CF6&dates=94A3B8&currStreakNum=E5E7EB&sideNums=E5E7EB" height="180"/>
+<a href="https://github.com/aryanpyx">
+<img src="https://streak-stats.demolab.com?user=aryanpyx&theme=transparent&hide_border=true&background=0D0B14&ring=7C3AED&fire=A855F7&currStreakLabel=A78BFA&sideLabels=8B5CF6&dates=94A3B8&currStreakNum=E5E7EB&sideNums=E5E7EB" height="180" alt="GitHub Streak"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpyx&layout=compact&hide_border=true&bg_color=0D0B14&title_color=A78BFA&text_color=E5E7EB&langs_count=10" height="180"/>
+<a href="https://github.com/aryanpyx">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpyx&layout=compact&hide_border=true&bg_color=0D0B14&title_color=A78BFA&text_color=E5E7EB&langs_count=8" height="180" alt="Top Languages"/>
+</a>
 
 </div>
 
@@ -526,7 +512,9 @@ Contributed across open-source initiatives, project administration, community op
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=aryanpyx&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+<a href="https://github.com/aryanpyx">
+<img src="https://github-profile-trophy.vercel.app/?username=aryanpyx&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
+</a>
 
 </div>
 
@@ -536,7 +524,7 @@ Contributed across open-source initiatives, project administration, community op
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanpyx&bg_color=0D0B14&color=A78BFA&line=7C3AED&point=A855F7&area=true&hide_border=true&custom_title=ARYAN%20PANDEY%20%E2%80%94%20CONTRIBUTION%20ACTIVITY" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanpyx&bg_color=0D0B14&color=A78BFA&line=7C3AED&point=A855F7&area=true&hide_border=true&custom_title=ARYAN%20PANDEY%20%E2%80%94%20CONTRIBUTION%20ACTIVITY" width="100%" alt="Contribution Activity"/>
 
 </div>
 
@@ -546,7 +534,11 @@ Contributed across open-source initiatives, project administration, community op
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/aryanpyx/aryanpyx/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryanpyx/aryanpyx/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryanpyx/aryanpyx/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/aryanpyx/aryanpyx/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
+</picture>
 
 </div>
 
@@ -588,3 +580,8 @@ open_to:
   - "Open Source"
   - "Product Engineering"
   - "Technical Collaborations"
+Connect
+<div align="center"> <a href="mailto:aryanpandey52355@gmail.com"> <img src="https://img.shields.io/badge/Gmail-aryanpandey52355%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/aryan-pandey-pyx/"> <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Pandey-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/aryanpyx"> <img src="https://img.shields.io/badge/GitHub-aryanpyx-18181B?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://aryan-me.netlify.app"> <img src="https://img.shields.io/badge/Portfolio-aryan--me-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <br/> <a href="https://x.com/aryanpyx/"> <img src="https://img.shields.io/badge/X-@aryanpyx-18181B?style=for-the-badge&logo=x&logoColor=white"/> </a> <a href="https://instagram.com/aryan.pyx"> <img src="https://img.shields.io/badge/Instagram-@aryan.pyx-A855F7?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </div>
+<div align="center">
+Building intelligent products, empowering builders, and turning ideas into reality.
+<br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:7C3AED,100:312E81&height=130&section=footer&animation=twinkling" width="100%"/> </div> ```
