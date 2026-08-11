@@ -1,26 +1,590 @@
-<h1 align="center">Hi 👋, I'm Aryan Pandey</h1>
-<h3 align="center">Hi, I’m Aryan Pandey — a passionate and purpose-driven B.Tech CSE student specializing in Data Science at Dr. A.P.J. Abdul Kalam Technical University (2023–2027).</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=aryanpyx&label=Profile%20views&color=0e75b6&style=flat" alt="aryanpyx" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:312E81,50:6D28D9,100:A855F7&height=220&section=header&text=ARYAN%20PANDEY&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=Software%20Engineer%20%7C%20AI%20Builder%20%7C%20Founder&descAlignY=58&descSize=18&animation=twinkling" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aryanpyx" alt="aryanpyx" /></a> </p>
+<br/>
 
-<p align="left"> <a href="https://twitter.com/aryanpyx" target="blank"><img src="https://img.shields.io/twitter/follow/aryanpyx?logo=twitter&style=for-the-badge" alt="aryanpyx" /></a> </p>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2800&pause=900&color=A78BFA&center=true&vCenter=true&width=900&lines=Building+AI-powered+products+and+digital+experiences;Full-Stack+Development+%7C+AI%2FML+%7C+Automation;Founder+%26+CEO+of+APYX;Programme+Manager+%40+OSEN;Open+Source+%26+Tech+Community+Builder" alt="Typing SVG"/>
 
-- 📫 How to reach me **aryanpandey52355@gmail.com**
+<br/><br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/aran07722526" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="aran07722526" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/aryan-pandey-pyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aryan-pandey-pyx" height="30" width="40" /></a>
-<a href="https://instagram.com/aryanpyx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aryanpyx" height="30" width="40" /></a>
+<img src="https://img.shields.io/badge/B.Tech-CSE%20%7C%20Data%20Science-7C3AED?style=for-the-badge&logo=academia&logoColor=white"/>
+<img src="https://img.shields.io/badge/AKTU-2023--2027-4F46E5?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+<img src="https://img.shields.io/badge/Lucknow-India-6366F1?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+
+<br/><br/>
+
+<a href="https://aryan-me.netlify.app">
+<img src="https://img.shields.io/badge/Portfolio-ARYAN--ME-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+<a href="https://www.linkedin.com/in/aryan-pandey-pyx/">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:aryanpandey52355@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-A855F7?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/aryanpyx">
+<img src="https://img.shields.io/badge/GitHub-aryanpyx-18181B?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/>
+
+<a href="https://x.com/aryanpyx/">
+<img src="https://img.shields.io/badge/X-@aryanpyx-18181B?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+<a href="https://instagram.com/aryan.pyx">
+<img src="https://img.shields.io/badge/Instagram-@aryan.pyx-A855F7?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=aryanpyx&label=PROFILE+VIEWS&color=7C3AED&style=flat-square"/>
+<img src="https://img.shields.io/github/followers/aryanpyx?label=FOLLOWERS&style=flat-square&color=4F46E5"/>
+<img src="https://img.shields.io/github/stars/aryanpyx?label=STARS&style=flat-square&color=A855F7"/>
+
+</div>
+
+---
+
+# About
+
+I’m **Aryan Pandey**, a Computer Science Engineering student specializing in **Data Science**, a software builder, and the **Founder & CEO of APYX**.
+
+I work at the intersection of **software engineering, AI, full-stack development, product engineering, design, automation, and technology ecosystems**. My focus is on transforming ideas into practical digital products and intelligent systems.
+
+At **APYX**, I’m building an AI-powered ecosystem focused on **automation, productivity, and digital experiences**, with intelligent tools and workflows designed for founders, startups, and creators.
+
+Alongside product building, I contribute to technology communities through programme management, open-source initiatives, partnerships, events, hackathons, and developer ecosystem development.
+
+### Engineering Focus
+
+- Full-Stack Web Development
+- AI / ML Application Development
+- LLM & Multimodal AI Integration
+- AI-Assisted Product Engineering
+- Automation & Intelligent Workflows
+- Data Science & Analytics
+- Product & UI/UX Engineering
+- Open Source & Developer Ecosystems
+- Technical Community & Programme Management
+
+### Open To
+
+`Software Engineering` · `AI Engineering` · `Full-Stack Development` · `AI/ML` · `Open Source` · `Product Engineering` · `Developer Tools` · `Technical Collaborations`
+
+---
+
+# Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c,dart&theme=dark"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### Frontend
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=aryanpyx&show_icons=true&locale=en&layout=compact" alt="aryanpyx" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,nextjs,tailwind,vite,flutter&theme=dark"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aryanpyx&show_icons=true&locale=en" alt="aryanpyx" /></p>
+### Backend & Databases
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryanpyx&" alt="aryanpyx" /></p>
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,firebase,supabase,postgresql,mongodb&theme=dark"/>
+</p>
+
+### Cloud, DevOps & Tooling
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,docker,googlecloud,figma,canva&theme=dark"/>
+</p>
+
+### Data, AI & ML
+
+`Pandas` · `Power BI` · `LLM APIs` · `Prompt Engineering` · `Multimodal AI` · `Exploratory Data Analysis` · `Data Preprocessing`
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| **LLM Integration** | Advanced | Integrating large language models into practical product workflows |
+| **Prompt Engineering** | Advanced | Designing structured prompts for AI-powered applications |
+| **Multimodal AI** | Advanced | Working with text, files, and voice-based inputs |
+| **AI Application Development** | Advanced | Building intelligent tools around real-world product use cases |
+| **Machine Learning** | Intermediate | Applied ML workflows, data preprocessing and experimentation |
+| **Data Science** | Intermediate | Exploratory analysis, preprocessing and data-driven insights |
+| **AI Automation** | Advanced | Designing intelligent workflows and productivity systems |
+| **Computer Vision** | Intermediate | Multimodal and vision-oriented AI product development |
+
+---
+
+# Featured Projects
+
+<details>
+<summary><b>APYX — AI-Powered Technology Ecosystem</b></summary>
+
+<br/>
+
+**APYX** is an AI-powered ecosystem focused on automation, productivity, and digital experiences for founders, startups, and creators.
+
+| Metric | Details |
+|---|---|
+| **Stack** | AI · Web Technologies · Automation · Product Engineering |
+| **Scale** | Technology ecosystem |
+| **Performance** | Designed around practical, productivity-focused workflows |
+| **Security** | Application-level security and responsible product architecture |
+| **Impact** | Helping founders, startups, and creators turn ideas into digital products |
+| **Repository** | [GitHub](https://github.com/aryanpyx) · [Portfolio](https://aryan-me.netlify.app) |
+
+### Engineering Focus
+
+- AI-powered product development
+- Intelligent automation
+- Productivity workflows
+- Digital experiences
+- Founder and startup tooling
+- Product strategy and execution
+
+</details>
+
+<details>
+<summary><b>SpeakForge VisionX — Multimodal AI System</b></summary>
+
+<br/>
+
+A multimodal AI system combining **speech and computer vision** to improve accessibility and intelligent human-computer interaction.
+
+| Metric | Details |
+|---|---|
+| **Stack** | Speech AI · Computer Vision · Multimodal AI |
+| **Scale** | Multimodal intelligent interaction system |
+| **Performance** | Designed for real-time human-computer interaction workflows |
+| **Security** | Input-aware application architecture |
+| **Impact** | Exploring more accessible and intelligent interaction models |
+| **Repository** | [GitHub](https://github.com/aryanpyx) |
+
+### Engineering Focus
+
+- Speech processing
+- Computer vision
+- Multimodal inputs
+- Accessibility-oriented AI
+- Human-computer interaction
+
+</details>
+
+<details>
+<summary><b>TruthLens — AI-Powered Fact Checking Platform</b></summary>
+
+<br/>
+
+An AI-powered fact-checking platform designed to verify claims, identify potential bias, and process multimodal inputs including **text, files, and voice**.
+
+| Metric | Details |
+|---|---|
+| **Stack** | NLP · LLM APIs · Multimodal AI |
+| **Scale** | AI-powered verification platform |
+| **Performance** | Designed for multimodal claim-processing workflows |
+| **Security** | Input validation and controlled processing architecture |
+| **Impact** | Helps users evaluate claims and identify potential misinformation |
+| **Repository** | [GitHub](https://github.com/aryanpyx) |
+
+### Engineering Focus
+
+- NLP-based analysis
+- Claim verification
+- Bias detection
+- Multimodal processing
+- LLM integration
+
+</details>
+
+<details>
+<summary><b>Jarvis — Virtual AI Assistant</b></summary>
+
+<br/>
+
+A virtual AI assistant designed around **voice commands, multilingual interaction, PC control, productivity, and automation**.
+
+| Metric | Details |
+|---|---|
+| **Stack** | AI · Voice Interaction · Automation |
+| **Scale** | Personal AI assistant |
+| **Performance** | Command-driven productivity workflows |
+| **Security** | Controlled system-interaction architecture |
+| **Impact** | Automates productivity tasks through natural interaction |
+| **Repository** | [GitHub](https://github.com/aryanpyx) |
+
+### Engineering Focus
+
+- Voice commands
+- AI assistant workflows
+- Multilingual interaction
+- PC control
+- Productivity automation
+
+</details>
+
+<details>
+<summary><b>Soil-to-Sky MRV — Climate Technology</b></summary>
+
+<br/>
+
+A climate-tech solution focused on **Monitoring, Reporting, and Verification (MRV)** for transparent environmental data collection and carbon-impact tracking.
+
+| Metric | Details |
+|---|---|
+| **Stack** | Climate Tech · Environmental Data · MRV |
+| **Scale** | Environmental monitoring solution |
+| **Performance** | Structured around transparent data collection workflows |
+| **Security** | Data integrity and verification considerations |
+| **Impact** | Supports environmental reporting and carbon-impact tracking |
+| **Repository** | [GitHub](https://github.com/aryanpyx) |
+
+### Engineering Focus
+
+- Environmental data
+- MRV systems
+- Carbon-impact tracking
+- Transparent reporting
+- Climate technology
+
+</details>
+
+<details>
+<summary><b>Blockchain Evidence — Decentralized Evidence Verification</b></summary>
+
+<br/>
+
+A blockchain-based system for secure evidence storage and verification, focused on **data integrity, transparency, and decentralized trust**.
+
+| Metric | Details |
+|---|---|
+| **Stack** | Blockchain · Decentralized Systems |
+| **Scale** | Evidence storage and verification system |
+| **Performance** | Designed around verifiable evidence workflows |
+| **Security** | Blockchain-backed integrity and verification |
+| **Impact** | Improves transparency and trust in digital evidence |
+| **Repository** | [GitHub](https://github.com/aryanpyx) |
+
+### Engineering Focus
+
+- Decentralized evidence
+- Data integrity
+- Blockchain verification
+- Transparency
+- Trust-minimized systems
+
+</details>
+
+---
+
+# Experience
+
+## CEO & Founder — APYX
+
+**APYX** · `October 2025 – Present` · India
+
+Building an AI-powered ecosystem focused on **automation, productivity, and digital experiences**.
+
+### Scope
+
+- Building intelligent tools and workflows for founders, startups, and creators
+- Driving product vision and technical direction
+- Exploring AI-powered productivity systems
+- Developing digital experiences around real-world user problems
+- Combining software, AI, automation, and product strategy
+
+`AI` `Product Engineering` `Automation` `Startups` `Software Development`
+
+---
+
+## Growth Marketing Intern — PHICSIT
+
+**PHICSIT** · `May 2026 – Present`
+
+Working on growth strategies and marketing initiatives for a global startup-focused platform.
+
+### Scope
+
+- Growth strategy development
+- Community engagement
+- Outreach initiatives
+- Startup and founder ecosystem engagement
+- Marketing execution
+
+`Growth Marketing` `Outreach` `Community` `Startups`
+
+---
+
+## Head of Human Resources — Youth United Council of India
+
+**Youth United Council of India** · `May 2026 – Present` · India
+
+Leading people and workforce initiatives across the organization.
+
+### Scope
+
+- Talent acquisition
+- Employee engagement
+- Strategic workforce planning
+- HR operations
+- People leadership
+
+`HR` `Talent Acquisition` `Leadership` `People Operations`
+
+---
+
+## Partnerships & Sponsorship Manager — Indian Data Club
+
+**Indian Data Club (IDC Lucknow)** · `March 2026 – Present` · Lucknow, India
+
+Building strategic partnerships and sponsorship opportunities across the technology ecosystem.
+
+### Scope
+
+- Startup and organization partnerships
+- Community collaborations
+- Sponsorship acquisition
+- Industry relationships
+- Event and hackathon collaborations
+
+`Partnerships` `Sponsorships` `Community` `Business Development`
+
+---
+
+## Session Host & State Lead — Uttar Pradesh — Open Source Connect Global
+
+**Open Source Connect Global** · `January 2026 – Present`
+
+Leading regional open-source initiatives while hosting technical sessions focused on awareness and education.
+
+### Scope
+
+- Hosting open-source technology sessions
+- Coordinating regional initiatives
+- Supporting local technology events
+- Strengthening the Uttar Pradesh developer ecosystem
+- Community engagement
+
+`Open Source` `Public Speaking` `Community` `Leadership`
+
+---
+
+## Programme Manager, Associate Designer & Content Writer — OSEN
+
+**OSEN** · `November 2025 – Present` · India · Hybrid
+
+Working across programme management, design, and technical content to support digital campaigns, events, and ecosystem initiatives.
+
+### Scope
+
+- Programme planning and coordination
+- Visual asset and UI creative design
+- Digital campaign support
+- Web content creation
+- SEO-aligned content development
+- Event and community initiatives
+
+`Programme Management` `Design` `Content Writing` `SEO` `Community`
+
+---
+
+## Web Development Intern & Graphic Designer — SocialMoon
+
+**SocialMoon** · `October 2025 – January 2026` · Remote
+
+Worked across web development and visual communication.
+
+### Scope
+
+- Built and optimized web components
+- Supported UI development
+- Created branding assets
+- Contributed to digital design workflows
+
+`Web Development` `UI` `Graphic Design` `Branding`
+
+---
+
+## Executive Team Member — Techfest, IIT Bombay
+
+**Techfest, IIT Bombay** · `September 2025 – December 2025`
+
+Supported the planning and execution of one of India's largest technical festivals.
+
+### Scope
+
+- Technical event coordination
+- Event planning support
+- Participant engagement
+- Community operations
+
+`Events` `Technical Community` `Coordination`
+
+---
+
+## Project Administrator, Core Team Member & Graphic Designer — Open Source Connect India
+
+**Open Source Connect India** · `August 2025 – October 2025`
+
+Contributed across open-source initiatives, project administration, community operations, and visual communication.
+
+### Scope
+
+- Coordinated open-source initiatives
+- Managed project activities
+- Created design assets
+- Supported community operations
+
+`Open Source` `Project Management` `Design` `Community`
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|---|---|
+| **Founder & CEO — APYX** | Building an AI-powered ecosystem focused on automation, productivity, and digital experiences |
+| **State Lead — Uttar Pradesh** | Leading regional open-source initiatives through Open Source Connect Global |
+| **Session Host — Open Source Connect Global** | Hosting technical sessions focused on open-source education and awareness |
+| **Programme Manager — OSEN** | Working across programmes, design, content, and ecosystem initiatives |
+| **Partnerships & Sponsorship Manager — IDC Lucknow** | Building partnerships and sponsorships across the technology ecosystem |
+| **Core Team — Open Source Connect India** | Contributing to open-source projects, community initiatives, and project administration |
+| **Executive Team — Techfest IIT Bombay** | Supporting technical festival planning and execution |
+
+</div>
+
+---
+
+# Certifications
+
+### AWS
+
+<img src="https://img.shields.io/badge/AWS-Certifications%20Not%20Provided-7C3AED?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+
+### Oracle
+
+<img src="https://img.shields.io/badge/Oracle-Certifications%20Not%20Provided-A855F7?style=for-the-badge&logo=oracle&logoColor=white"/>
+
+### NPTEL
+
+<img src="https://img.shields.io/badge/NPTEL-Certifications%20Not%20Provided-4F46E5?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+
+### Cisco
+
+<img src="https://img.shields.io/badge/Cisco-Certifications%20Not%20Provided-6366F1?style=for-the-badge&logo=cisco&logoColor=white"/>
+
+---
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/">
+<img src="https://img.shields.io/badge/LeetCode-Profile%20Not%20Provided-18181B?style=for-the-badge&logo=leetcode&logoColor=A78BFA"/>
+</a>
+
+<a href="https://www.geeksforgeeks.org/">
+<img src="https://img.shields.io/badge/GeeksforGeeks-Profile%20Not%20Provided-18181B?style=for-the-badge&logo=geeksforgeeks&logoColor=7C3AED"/>
+</a>
+
+<a href="https://www.hackerrank.com/">
+<img src="https://img.shields.io/badge/HackerRank-Profile%20Not%20Provided-18181B?style=for-the-badge&logo=hackerrank&logoColor=A855F7"/>
+</a>
+
+<a href="https://www.codechef.com/">
+<img src="https://img.shields.io/badge/CodeChef-Profile%20Not%20Provided-18181B?style=for-the-badge&logo=codechef&logoColor=8B5CF6"/>
+</a>
+
+</div>
+
+---
+
+# GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=aryanpyx&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180"/>
+
+<img src="https://streak-stats.demolab.com?user=aryanpyx&theme=transparent&hide_border=true&background=0D0B14&ring=7C3AED&fire=A855F7&currStreakLabel=A78BFA&sideLabels=8B5CF6&dates=94A3B8&currStreakNum=E5E7EB&sideNums=E5E7EB" height="180"/>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpyx&layout=compact&hide_border=true&bg_color=0D0B14&title_color=A78BFA&text_color=E5E7EB&langs_count=10" height="180"/>
+
+</div>
+
+---
+
+# GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=aryanpyx&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7"/>
+
+</div>
+
+---
+
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanpyx&bg_color=0D0B14&color=A78BFA&line=7C3AED&point=A855F7&area=true&hide_border=true&custom_title=ARYAN%20PANDEY%20%E2%80%94%20CONTRIBUTION%20ACTIVITY" width="100%"/>
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/aryanpyx/aryanpyx/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
+
+</div>
+
+---
+
+# Current Focus
+
+```yaml
+profile:
+  name: "Aryan Pandey"
+  role: "Software Engineer | AI Builder | Founder"
+
+learning:
+  - "Data Structures & Algorithms"
+  - "Advanced Full-Stack Development"
+  - "AI / ML Engineering"
+  - "Scalable Software Architecture"
+  - "Product Engineering"
+
+building:
+  - "APYX"
+  - "AI-powered products"
+  - "Intelligent automation workflows"
+  - "Multimodal AI systems"
+  - "Developer and startup ecosystem initiatives"
+
+exploring:
+  - "Generative AI"
+  - "LLM Applications"
+  - "Multimodal AI"
+  - "AI Automation"
+  - "Web3"
+  - "Developer Ecosystems"
+
+open_to:
+  - "Software Engineering"
+  - "AI Engineering"
+  - "Full-Stack Development"
+  - "Open Source"
+  - "Product Engineering"
+  - "Technical Collaborations"
