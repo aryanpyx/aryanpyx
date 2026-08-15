@@ -467,32 +467,10 @@ Contributed across open-source initiatives, project administration, community op
 <div align="center">
 
 <a href="https://github.com/aryanpyx">
-<img src="https://github-readme-stats.vercel.app/api?username=aryanpyx&show_icons=true&hide_border=true&bg_color=0D0B14&title_color=A78BFA&icon_color=7C3AED&text_color=E5E7EB&ring_color=7C3AED&include_all_commits=true&count_private=true" height="180" alt="GitHub Statistics"/>
-</a>
-
-<a href="https://github.com/aryanpyx">
 <img src="https://streak-stats.demolab.com?user=aryanpyx&theme=transparent&hide_border=true&background=0D0B14&ring=7C3AED&fire=A855F7&currStreakLabel=A78BFA&sideLabels=8B5CF6&dates=94A3B8&currStreakNum=E5E7EB&sideNums=E5E7EB" height="180" alt="GitHub Streak"/>
 </a>
 
 <br/><br/>
-
-<a href="https://github.com/aryanpyx">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aryanpyx&layout=compact&hide_border=true&bg_color=0D0B14&title_color=A78BFA&text_color=E5E7EB&langs_count=8" height="180" alt="Top Languages"/>
-</a>
-
-</div>
-
----
-
-# GitHub Trophies
-
-<div align="center">
-
-<a href="https://github.com/aryanpyx">
-<img src="https://github-profile-trophy.vercel.app/?username=aryanpyx&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7" alt="GitHub Trophies"/>
-</a>
-
-</div>
 
 ---
 
@@ -505,59 +483,3 @@ Contributed across open-source initiatives, project administration, community op
 </div>
 
 ---
-
-# Contribution Snake
-
-<div align="center">
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/aryanpyx/aryanpyx/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/aryanpyx/aryanpyx/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/aryanpyx/aryanpyx/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake"/>
-</picture>
-
-</div>
-
----
-
-# Current Focus
-
-```yaml
-profile:
-  name: "Aryan Pandey"
-  role: "Software Engineer | AI Builder | Founder"
-
-learning:
-  - "Data Structures & Algorithms"
-  - "Advanced Full-Stack Development"
-  - "AI / ML Engineering"
-  - "Scalable Software Architecture"
-  - "Product Engineering"
-
-building:
-  - "APYX"
-  - "AI-powered products"
-  - "Intelligent automation workflows"
-  - "Multimodal AI systems"
-  - "Developer and startup ecosystem initiatives"
-
-exploring:
-  - "Generative AI"
-  - "LLM Applications"
-  - "Multimodal AI"
-  - "AI Automation"
-  - "Web3"
-  - "Developer Ecosystems"
-
-open_to:
-  - "Software Engineering"
-  - "AI Engineering"
-  - "Full-Stack Development"
-  - "Open Source"
-  - "Product Engineering"
-  - "Technical Collaborations"
-Connect
-<div align="center"> <a href="mailto:aryanpandey52355@gmail.com"> <img src="https://img.shields.io/badge/Gmail-aryanpandey52355%40gmail.com-7C3AED?style=for-the-badge&logo=gmail&logoColor=white"/> </a> <a href="https://www.linkedin.com/in/aryan-pandey-pyx/"> <img src="https://img.shields.io/badge/LinkedIn-Aryan%20Pandey-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/> </a> <a href="https://github.com/aryanpyx"> <img src="https://img.shields.io/badge/GitHub-aryanpyx-18181B?style=for-the-badge&logo=github&logoColor=white"/> </a> <a href="https://aryan-me.netlify.app"> <img src="https://img.shields.io/badge/Portfolio-aryan--me-6366F1?style=for-the-badge&logo=vercel&logoColor=white"/> </a> <br/> <a href="https://x.com/aryanpyx/"> <img src="https://img.shields.io/badge/X-@aryanpyx-18181B?style=for-the-badge&logo=x&logoColor=white"/> </a> <a href="https://instagram.com/aryan.pyx"> <img src="https://img.shields.io/badge/Instagram-@aryan.pyx-A855F7?style=for-the-badge&logo=instagram&logoColor=white"/> </a> </div>
-<div align="center">
-Building intelligent products, empowering builders, and turning ideas into reality.
-<br/> <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:7C3AED,100:312E81&height=130&section=footer&animation=twinkling" width="100%"/> </div> ```
