@@ -462,24 +462,5 @@ Contributed across open-source initiatives, project administration, community op
 
 ---
 
-# GitHub Analytics
-
-<div align="center">
-
-<a href="https://github.com/aryanpyx">
-<img src="https://streak-stats.demolab.com?user=aryanpyx&theme=transparent&hide_border=true&background=0D0B14&ring=7C3AED&fire=A855F7&currStreakLabel=A78BFA&sideLabels=8B5CF6&dates=94A3B8&currStreakNum=E5E7EB&sideNums=E5E7EB" height="180" alt="GitHub Streak"/>
-</a>
-
-<br/><br/>
-
----
-
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=aryanpyx&bg_color=0D0B14&color=A78BFA&line=7C3AED&point=A855F7&area=true&hide_border=true&custom_title=ARYAN%20PANDEY%20%E2%80%94%20CONTRIBUTION%20ACTIVITY" width="100%" alt="Contribution Activity"/>
-
-</div>
 
 ---
